@@ -1,0 +1,2 @@
+This is an example text file which is being printed out using an AutoHotKey Script,
+Generated using fiscgen!
